@@ -3,4 +3,4 @@ project(teste C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(teste main.c bibli.h bibli.c)
+add_executable(teste main.c bibli.h bibli.c generic.h generic.c)
